@@ -1,11 +1,11 @@
 # endpoint_interview_file_structure
 
-##node Verision:
+## Node Verision:
 v18.14.0
 
-##Start App:
-- npm install
-- npm run start
+## Start App:
+npm install
+npm run start
 
-##Run Tests:
+## Run Tests:
 npm run test
